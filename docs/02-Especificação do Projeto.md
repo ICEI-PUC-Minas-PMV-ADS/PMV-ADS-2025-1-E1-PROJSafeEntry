@@ -28,8 +28,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|VISITANTE | Criar uma conta no Sistema>| Poder acessar minhas informações de visita.                |
+|VISITANTE|  Fazer Login na minha conta.| gerenciar minhas visitas e acessar o histórico. |
+|FUNCIONÁRIO| Cadastrar os visitantes no sistema.| Controlar o fluxo de pessoas na instituição.  |
+|VISITANTE| Agendar minha visita.| Garantir que minha entrada seja autorizada previamente.  |
+|FUNCIONÁRIO| Filtrar ou pesquisar visitantes cadastrados.| Encontrar rapidamente informações necessárias.  |
+|FUNCIONÁRIO| Consultar um histórico de visitas| Ter controle sobre quem já visitou o hospital.  |
+|ADMINISTRADOR| Monitorar o fluxo de visitantes no hospital.| Garantir a segurança e organização do local.  |
+|FUNCINÁRIO| Registrar o horário de entrada e saída dos visitantes.| Controlar o tempo de permanência no local. |
+|ADMINISTRADOR| Editar ou excluir cadastro de um visitante.| Para manter os registros atualizados e evitar dados desatualizados ou inativos |
+|FUNCIONÁRIO| Receber alertas sobre o tempo limite de permanência de um visitante.| Para garantir o controle adequado do fluxo de pessoas no hospital.  |
+|VISITANTE| Visualizar as regras do hospital antes de confirmar minha visita.| Para entender as normas e evitar problemas com políticas internas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -79,15 +88,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| A aplicação deve permitir ao usuário cadastrar uma conta.  | ALTA | 
+|RF-002| A aplicação deve permitir ao usuário fazer o login da sua | ALTA |
+|RF-003| A aplicação deve permitir ao usuário fazer o cadastro de visitantes. | ALTA |
+|RF-004| A aplicação deve permitir ao usuário fazer agendamento de visita.  | MÉDIA |
+|RF-005| A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para permitir o usuário localizar visitantes.  | ALTA |
+|RF-006| A aplicação deve oferecer uma funcionalidade de histórico de visitantes.  | MÉDIA |
+|RF-007| A aplicação deve oferecer uma funcionalidade de monitoramento de fluxo.  | MÉDIA |
+|RF-008| A aplicação deve permitir o usuário cadastrar o horário da permanência do visitante.  | ALTA |
+|RF-009| A aplicação deve permitir que funcionários modifiquem ou excluam o cadastro de visitantes.   | MÉDIA |
+|RF-010|  A aplicação deve exibir um alerta quando o tempo de permanência de um visitante estiver próximo do limite.  | MÉDIA |
+|RF-011|  A aplicação deve informar as regras do hospital para o visitante antes de confirmar a visita.  | MÉDIA |
+
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve exigir uma senha forte com os seguintes requisitos: mínimo de 8 caracteres, letra maiúscula, letra minúscula, números e um caractere especial  | ALTA | 
+|RNF-002| A aplicação deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge  |  ALTA | 
+|RNF-003| A disponibilidade da aplicação deve ser igual ou superior a 90%  |  ALTA | 
+|RNF-004| A aplicação deve ser responsiva em dispositivos móveis e tablets.  |  ALTA | 
+|RNF-005| A aplicação deve apresentar o histórico de visitas em até 2 minutos  |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
