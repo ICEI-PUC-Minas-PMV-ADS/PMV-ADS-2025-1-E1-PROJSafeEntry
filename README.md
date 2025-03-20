@@ -1,23 +1,33 @@
-# TÍTULO DO PROJETO
+# Sistema De Gestão De Visitantes Para Hospitais
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação WEB FRONT-END`
 
-`SEMESTRE`
+`1º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+  Atualmente o cenário dos hospitais vivenciam diariamente com um 
+servero problema de entrada e saída de visitantes, tornando essas 
+unidades de saúde um local desorganizado, e muito das vezes inseguro
+tanto para os pacientes quanto as pessoas que estão prestando serviço
+na instituição.
+  Visando solucionar o problema ressaltado, o nosso projeto visa o de-
+senvolvimento de um software na qual controla a entrada e saída de pessoas
+e facilitanto a vida dos profissionais que habituam o local.
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Luiza Rocha
+* Diego Souza Rodrigues
+* Gabriel Eduardo Rodrigues Lima 
+* Gilvan Ramos da Silva
+* Gustavo Vaccari Lopes
+* Suellen Azevedo Pereira da Silva 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Viviâne de Almeida Tôrres 
 
 ## Instruções de utilização
 
