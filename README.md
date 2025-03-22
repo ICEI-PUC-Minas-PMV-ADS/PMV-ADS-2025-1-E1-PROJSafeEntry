@@ -23,7 +23,8 @@ e facilitanto a vida dos profissionais que habituam o local.
 * Gabriel Eduardo Rodrigues Lima 
 * Gilvan Ramos da Silva
 * Gustavo Vaccari Lopes
-* Suellen Azevedo Pereira da Silva 
+* Suellen Azevedo Pereira da Silva
+* Ana Luiza Rocha
 
 ## Orientador
 
