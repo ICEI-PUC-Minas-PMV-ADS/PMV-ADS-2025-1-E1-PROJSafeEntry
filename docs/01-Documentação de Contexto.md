@@ -13,7 +13,17 @@ O controle de entrada e saída de visitantes aos hospitais, em suas maiorias ain
 
 ## Objetivos
 
-Nosso objetivo é criar um sistema de gestão de visitantes que torne esse fluxo mais rápido, organizado e seguro, sendo assim, com essa solução, buscamos melhorar a experiência dos visitantes e familiares, reduzir problemas de segurança e oferecer um sistema mais prático e intuitivo para a equipe hospitalar. 
+Criar um sistema de gestão de visitantes hospitalares que melhore significativamente o fluxo de entrada e saída de pessoas, proporcionando uma experiência mais rápida, organizada e segura. A solução visa otimizar o processo de identificação e registro de visitantes, minimizando filas e tempos de espera, garantindo que apenas pessoas autorizadas possam acessar áreas específicas do hospital.
+
+Além disso, o sistema busca aumentar a segurança hospitalar, reduzindo riscos associados a entradas não autorizadas e oferecendo maior controle sobre quem circula nas dependências da instituição. Com uma plataforma digital intuitiva, a solução permitirá o gerenciamento eficiente dos visitantes, automatizando registros e fornecendo relatórios para auxiliar na administração hospitalar.
+
+Objetivos Específicos:
+	•	Criar uma plataforma digital intuitiva para cadastro e gerenciamento dos visitantes.
+	•	Automatizar o controle de entrada e saída, reduzindo falhas e inconsistências no registro manual.
+	•	Melhorar a segurança hospitalar por meio da identificação rápida e precisa dos visitantes.
+	•	Minimizar congestionamentos e otimizar a recepção, reduzindo o tempo de espera.
+	•	Facilitar a comunicação entre visitantes e equipe hospitalar, garantindo maior transparência e eficiência no processo de visitação.
+	•	Disponibilizar relatórios e estatísticas para a administração hospitalar aprimorar o gerenciamento do fluxo de visitas.
 
 
 ## Justificativa
