@@ -20,6 +20,7 @@ Além disso, o sistema busca aumentar a segurança hospitalar, reduzindo riscos 
 Com uma plataforma digital intuitiva, a solução permitirá o gerenciamento eficiente dos visitantes, automatizando registros e fornecendo relatórios para auxiliar na administração hospitalar.
 
 Objetivos Específicos:
+
 	•	Criar uma plataforma digital intuitiva para cadastro e gerenciamento dos visitantes.
  
 	•	Automatizar o controle de entrada e saída, reduzindo falhas e inconsistências no registro manual.
