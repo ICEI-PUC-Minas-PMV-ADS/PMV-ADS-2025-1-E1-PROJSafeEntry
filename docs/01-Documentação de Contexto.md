@@ -21,10 +21,15 @@ Com uma plataforma digital intuitiva, a solução permitirá o gerenciamento efi
 
 Objetivos Específicos:
 	•	Criar uma plataforma digital intuitiva para cadastro e gerenciamento dos visitantes.
+ 
 	•	Automatizar o controle de entrada e saída, reduzindo falhas e inconsistências no registro manual.
+ 
 	•	Melhorar a segurança hospitalar por meio da identificação rápida e precisa dos visitantes.
+
 	•	Minimizar congestionamentos e otimizar a recepção, reduzindo o tempo de espera.
+ 
 	•	Facilitar a comunicação entre visitantes e equipe hospitalar, garantindo maior transparência e eficiência no processo de visitação.
+ 
 	•	Disponibilizar relatórios e estatísticas para a administração hospitalar aprimorar o gerenciamento do fluxo de visitas.
 
 
